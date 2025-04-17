@@ -1,0 +1,10 @@
+com\example\EnvironmentalMonitoring\EnvironmentalMonitoringApplication.class
+com\example\EnvironmentalMonitoring\model\User.class
+com\example\EnvironmentalMonitoring\repository\DataRepo.class
+com\example\EnvironmentalMonitoring\config\ViewResolverConfig.class
+com\example\EnvironmentalMonitoring\dto\UserDto.class
+com\example\EnvironmentalMonitoring\model\Location1History.class
+com\example\EnvironmentalMonitoring\controller\UserController.class
+com\example\EnvironmentalMonitoring\dto\DataDto.class
+com\example\EnvironmentalMonitoring\service\UserService.class
+com\example\EnvironmentalMonitoring\repository\UserRepo.class
